@@ -1,0 +1,19 @@
+{
+    "details":{
+        "name":"manmohan",
+        "mobile":"9030130759",
+        "email":"obili.manmohan@gmail.com"
+    },
+    "mydata":[
+        { 
+            "name":"manmohan",
+            "mobile":"9030130759",
+            "email":"obili.manmohan@gmail.com"
+        },
+        {
+            "name":"manmohan",
+            "mobile":"9030130759",
+            "email":"obili.manmohan@gmail.com"
+        }
+    ]
+}
